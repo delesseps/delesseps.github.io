@@ -1,0 +1,2 @@
+(this["webpackJsonpweb-admin"]=this["webpackJsonpweb-admin"]||[]).push([[38],{387:function(n,e,t){"use strict";t.r(e);var i=t(5),s=t(1),a=t.n(s);e.default=function(){return Object(i.jsx)(a.a.Fragment,{children:"Invoices"})}}}]);
+//# sourceMappingURL=38.d4c2d7e9.chunk.js.map
